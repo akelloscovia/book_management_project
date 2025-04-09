@@ -1,0 +1,148 @@
+
+
+h2 {
+  color: black;
+}
+  .container {
+    max-width: 800px;
+  }
+  
+  .nav-tabs .nav-link {
+    font-weight: bold;
+  }
+  
+  .nav-tabs .nav-link {
+    color: #0f0f0f ;
+    font-weight: bold;
+  }
+  
+  .nav-tabs .nav-link.active {
+    background-color: rgb(207, 155, 13) ;
+    color: #55b0ce ; 
+  }
+  
+  .nav-tabs .nav-link:hover {
+    color: rgba(13, 13, 14, 0.505) ;
+  }
+
+
+
+
+  .tab-link:hover {
+    background-color: #82a3c4;
+  }
+  
+  .tab-link.active {
+    background-color: #007bff;
+    color: rgb(15, 14, 14);
+    font-weight: bold;
+  }
+  
+  
+
+  .book-icon {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+ 
+  }
+  .change {
+    color: yellow;
+  }
+
+  .color {
+    color: blue;
+  }
+  .book-icon img {
+    width: 100PX;
+    height: 100PX;
+    object-fit: cover;
+  }
+  
+  
+
+  .card img {
+    height: 180px;
+    object-fit: cover;
+  }
+  
+  .search-input {
+    max-width: 500px;
+    margin: auto;
+    display: block;
+  }
+  
+  
+  .btn-info {
+    font-weight: bold;
+  }
+  
+  .book-container {
+    margin: auto;
+    width: 80%;
+  }
+
+
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fdfdfd;
+  }
+  
+  .navbar {
+    padding: 10px 0;
+  }
+  
+  .nav-menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-menu li {
+    margin: 0 10px;
+  }
+  
+  .nav-btn {
+    background-color: rgb(16, 42, 190);
+    color: #0b0c0c;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .nav-btn:hover {
+    background-color: #e6e6e6;
+  }
+  
+  .nav-btn.active {
+    color: white;
+  }
+  .tab-content {
+    padding: 20px;
+  }
+  
+  .tab-pane {
+    display: none;
+  }
+  
+  .tab-pane.active {
+    display: block;
+  }
+
+
+  .display1 {
+    font-weight: 900;
+    font-size:35px;
+     color: aqua;
+    text-shadow: 0 0 7px rgb(186, 12, 230);
+    font-family:  Geneva;
+
+  }
